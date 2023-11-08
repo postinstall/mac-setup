@@ -15,6 +15,10 @@
 
     brew install iterm2 —cask
     brew install visual-studio-code --cask
+    brew install python@3.12
+    brew install nextcloud --cask
+    brew install keepingyouawake --cask
+    brew install rectangle --cask
 
 # Install oh-my-zsh
 
