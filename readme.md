@@ -27,3 +27,9 @@
     cp devops-zsh-theme/devops.zsh-theme ~/.oh-my-zsh/custom/themes
     vim .zshrc
     rm -rf devops-zsh-theme
+
+# Generate SSH-Keys
+
+    ssh-keygen -t ed25519 -C "name@machine.local"
+
+# Additional Software
