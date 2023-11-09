@@ -11,7 +11,7 @@
     (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/sascha/.zprofile
     eval "$(/usr/local/bin/brew shellenv)"
 
-# Install iTerm2
+# Install Software
 
     brew install iterm2 —cask
     brew install visual-studio-code --cask
@@ -19,6 +19,13 @@
     brew install nextcloud --cask
     brew install keepingyouawake --cask
     brew install rectangle --cask
+    brew install brave-browser google-chrome firefox --cask
+    brew install obsidian --cask
+    brew install microsoft-office --cask
+    brew install spotify --cask
+    brew install vlc --cask
+    brew install --cask affinity-designer affinity-photo affinity-publisher
+
 
 # Install oh-my-zsh
 
