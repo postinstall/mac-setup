@@ -25,6 +25,7 @@
     brew install spotify --cask
     brew install vlc --cask
     brew install --cask affinity-designer affinity-photo affinity-publisher
+    brew install --cask notunes
 
 
 # Install oh-my-zsh
